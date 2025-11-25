@@ -67,3 +67,18 @@ body {
     margin-right: 10px;
     font-weight: bold;
 }
+.row {
+    display: flex; /* Alinha os elementos filhos (colunas) lado a lado */
+}
+
+.column {
+    flex: 1; /* Faz com que cada coluna ocupe uma parte igual do espaço */
+    padding: 15px;
+    border: 1px solid #ccc; /* Apenas para visualização */
+    margin: 5px;
+}
+.projetos{
+    text-decoration: none;
+     margin-right: 10px;
+    font-weight: bold;
+}
