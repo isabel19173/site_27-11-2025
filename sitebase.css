@@ -14,14 +14,8 @@ body {
     font-size: 1.5em;
     align-items: center;
     display: flex;
-
 }
 
-.right-item a {
-   margin-right: 20px; 
-   
-    
-}
 #menu li a {
     text-decoration: none;
     color: rgb(215, 55, 55);
