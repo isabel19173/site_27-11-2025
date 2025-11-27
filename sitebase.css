@@ -45,7 +45,7 @@ body {
 
 .sobre-container {
     display: flex;
-    justify-content: space-between; /* Um em cada lado */
+    justify-content: space-between; 
     gap: 40px; 
     padding: 40px;
 }
@@ -66,13 +66,13 @@ body {
     font-weight: bold;
 }
 .row {
-    display: flex; /* Alinha os elementos filhos (colunas) lado a lado */
+    display: flex; 
 }
 
 .column {
-    flex: 1; /* Faz com que cada coluna ocupe uma parte igual do espaço */
+    flex: 1; 
     padding: 15px;
-    border: 1px solid #ccc; /* Apenas para visualização */
+    border: 1px solid #ccc; 
     margin: 5px;
 }
 .projetos{
